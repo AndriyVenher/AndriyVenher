@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AndriyVenher in Ukraine
-- 👀 I’m interested in chess, football
+- 👋 Hi, I’m @AndriyVenher in Ukraine(Ternopil)
+- 👀 I’m interested in chess, football, swimming, traveling
 - 🌱 I’m currently learning Javascript,PHP
 - 💞️ I’m looking to collaborate on - Yes
-- 📫 How to reach me -  I dont know now
+- 📫 How to reach me -  I dont know now (I will write email later)
 
 <!---
 AndriyVenher/AndriyVenher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
